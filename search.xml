@@ -6,9 +6,9 @@
     <entry>
       <title><![CDATA[初识Github日记]]></title>
       <url>http://yoursite.com/2016/09/13/%E5%88%9D%E8%AF%86Github%E6%97%A5%E8%AE%B0/</url>
-      <content type="html"><![CDATA[<h2 id="听说Github可以做网页"><a href="#听说Github可以做网页" class="headerlink" title="听说Github可以做网页"></a>听说Github可以做网页</h2><p>&emsp;&emsp;前几天，室友无意间提起Github这个东西，LOGO是一只非常Q的猫，极大的提起了我的兴趣。</p>
-<img src="/2016/09/13/初识Github日记/Git.png" alt="This is an Git image" title="This is an Git image">
-<p>查阅后似懂非懂的注册了账号并且建了仓库。而后的两天时间基本都浪费在了不断安装Git客户端、不断配置_config.yml、不断删除添加ssh-keygen的循环中，我重复对比了无数次，但最终仓库上还是没有我的代码。</p>
+      <content type="html"><![CDATA[<h2 id="听说Github可以做网页"><a href="#听说Github可以做网页" class="headerlink" title="听说Github可以做网页"></a>听说Github可以做网页</h2><p>&emsp;&emsp;前几天，室友无意间提起Github这个东西，根据他的描述我Google了一下GIthub，得到如下结果：GitHub是一个通过Git进行版本控制的软件源代码托管服务，由GitHub公司（曾称Logical Awesome）的开发者Chris Wanstrath、PJ Hyett和Tom Preston-Werner使用Ruby on Rails编写而成。读完后我进了社区，发现LOGO是一只非常Q的猫，由于本人喜欢猫，所以这个Logo引起了我极大的的兴趣。<a id="more"></a></p>
+<img src="/2016/09/13/初识Github日记/Git.png" alt="这就是Github的logo" title="这就是Github的logo">
+<p>&emsp;&emsp;于是马上就开始跌跌撞撞、似懂非懂的注册了账号并且建了仓库。而后的两天时间基本都浪费在了不断安装Git客户端、不断配置_config.yml、不断删除添加ssh-keygen的循环中，我重复对比了无数次，但最终仓库上还是没有我的代码。</p>
 <h2 id="终于看到的了Hello-Word"><a href="#终于看到的了Hello-Word" class="headerlink" title="终于看到的了Hello Word"></a>终于看到的了Hello Word</h2><p>&emsp;&emsp;到了第三天，终于有了转机，在我把所有软件以及产生的文件全部删除，重新注册、安装、修改之后，终于在仓库指定的域名里看到的HEXO的“Hello World”，我真的激动的想哭，但是考虑到室友在“一次性成功”又往后进行了好几个步骤后，根本没时间休息就又开始看作为新手的下一步该干什么。</p>
 <h2 id="配置HEXO主题"><a href="#配置HEXO主题" class="headerlink" title="配置HEXO主题"></a>配置HEXO主题</h2><p>&emsp;&emsp;Hexo我的理解就是一个站点框架，在它之上可以添加一些优秀开发者开发的主题，然后我们再根据自己的需求，增删主题中的内容。我的博客主题来自于一个叫NexT的主题，他的简约、规整、典雅又不失逼格深深的吸引了我，让我开始了人生当中的第一个独立博客的制作。</p>
 <h2 id="NexT的主题配置"><a href="#NexT的主题配置" class="headerlink" title="NexT的主题配置"></a>NexT的主题配置</h2><p>&emsp;&emsp;NexT虽简约，但不简单，功能齐全，每个功能作者都描述的非常详细，让普通人一看就懂（然而我就是属于智商较低的非普通人），于是又花了两天配置了NexT的主题和设置。</p>
@@ -17,7 +17,7 @@
 <p>1.在你重装ssh-key的时候，一定要注销一下电脑再装，因为即便你删除了ssh文件，它的后台七八条进程还在运行，所以你不注销装的时候会出错。</p>
 <p>2.Git命令行操作时出现绿、粉、蓝三色字符以及$的时候才表示上一条命令运行完，如果迟迟未出现，那么上个命令就没有成功。Git命令行里一般命令都是小写，一旦输入大写就要出错。</p>
 <p>3.操作_config.yml文件的时候一定不要忘了在每个：后面加 空格，如果忘加会报错。</p>
-<p>4.如果有智商和我一样不高的人，那么解决问题的方法就是不要放弃，你可以不是做博客的天才，但你不要放弃做努力的天才!<br><a id="more"></a></p>
+<p>4.如果有智商和我一样不高的人，那么解决问题的方法就是不要放弃，你可以不是做博客的天才，但你不要放弃做努力的天才!</p>
 ]]></content>
     </entry>
     
